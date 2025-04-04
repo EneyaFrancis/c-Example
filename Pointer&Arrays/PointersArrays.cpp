@@ -15,9 +15,11 @@ int main(){
     pPointer++;
     *pPointer = 20; //assign value to the second element of the pointer
 
-    /*assign the address of the third element to the pointer  */
-    pPointer = &numberArray[2];
-    *pPointer = 30; //assign value to the third element
+   /*This code has been deleted ...
+   mbkve;envlwmv;l
+   askcnkladvlbdlvbdlcvn
+   vowuvbwbvwbnvbw
+   bjqeqvlwblvblwrv*/
 
 
     /*assign the address of the fourth element to the pointer using
